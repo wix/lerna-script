@@ -1,6 +1,6 @@
 {
   "name": "lerna-script",
-  "version": "1.3.3",
+  "version": "1.3.2",
   "description": "lerna extension for custom scripts",
   "main": "index.js",
   "homepage": "https://github.com/wix/lerna-script/tree/master/lerna-script",
@@ -43,7 +43,7 @@
     "bluebird": "3.7.2",
     "fs-extra": "8.1.0",
     "ignore": "5.1.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "npmlog": "4.1.2",
     "sanitize-filename": "1.6.3",
     "shelljs": "0.8.4",
