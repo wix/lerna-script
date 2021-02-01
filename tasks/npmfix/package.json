@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "git-remote-url": "1.0.1",
-    "hosted-git-info": "3.0.4"
+    "hosted-git-info": "3.0.8"
   },
   "peerDependencies": {
     "lerna-script": ">=1.3.2"
